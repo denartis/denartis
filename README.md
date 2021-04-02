@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @denartis (Denis Martynov)
+- 👀 I’m interested in programming, frontend, backend, break-dance, painting
+- 🌱 I’m currently learning frontend/backend languages
+- 💞️ I’m looking to collaborate on js projects
+- 📫 How to reach me: instagram - @deny_rise; telegram - @denartis
